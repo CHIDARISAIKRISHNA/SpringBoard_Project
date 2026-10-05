@@ -1,1 +1,3 @@
-# SpringBoard_Project
+# SpringBoard Project
+# Title 
+# ShopStack : Enterprise Multi-Vendor E-Commerce Platform
